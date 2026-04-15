@@ -1,8 +1,8 @@
-# Assalam 0 Alaikum, I'm Mian Muhammad Zain Faisal 👋
+# Assalam 0 Alaikum, I'm Mian Muhammad Zain Faisal 
 
-🎓 Bachelor’s in Artificial Intelligence | The Superior University, Lahore  
-💻 AI & Machine Learning Enthusiast | Python Developer  
-🚀 Building real-world projects using AI and Data Structures  
+Bachelor’s in Artificial Intelligence | The Superior University, Lahore  
+AI & Machine Learning Enthusiast | Python Developer  
+uilding real-world projects using AI and Data Structures  
 
 ### 🔹 Projects
 - **NutriTrack** – Machine learning-based calorie predictor  
