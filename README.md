@@ -2,7 +2,7 @@
 
 Bachelor’s in Artificial Intelligence | The Superior University, Lahore  
 AI & Machine Learning Enthusiast | Python Developer  
-uilding real-world projects using AI and Data Structures  
+Building real-world projects using AI and Data Structures  
 
 ### 🔹 Projects
 - **NutriTrack** – Machine learning-based calorie predictor  
